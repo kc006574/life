@@ -14,5 +14,5 @@ jobs:
     # 1. 簡單地使用 curl 發送請求
     - name: Ping Replit app
       run: |
-        curl -X GET https://your-replit-name.repl.co  # 替換成你的 Replit 應用 URL
+        curl -X GET https://line-message-hub-kc006574.replit.app/  # 替換成你的 Replit 應用 URL
 
